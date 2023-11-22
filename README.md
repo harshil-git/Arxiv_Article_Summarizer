@@ -4,7 +4,7 @@
 ## Overview
 This is a Arxiv Article Summarizer app, summarizes the Articles of Arxiv library based on the desired topic. It pulls the articles from Arxiv library, splits content into chunks with the help of Langchain Document loaders and transformers and saves as FAISS index for information retrieval. Later, based on the topic given and created FAISS index, GPT 3.5 summarizes content in the form of core argument, evidence and conclusions and present to the user. 
 
-
+<img src="App.png">
 
 ## Features
 
